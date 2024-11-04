@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wilkques/line-login-sdk-php": "^5.1"
+    }
+}
