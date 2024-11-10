@@ -1,5 +1,6 @@
 {
     "require": {
-        "wilkques/line-login-sdk-php": "^5.1"
+        "wilkques/line-login-sdk-php": "^5.1",
+        "linecorp/line-bot-sdk": "^9.12"
     }
 }
